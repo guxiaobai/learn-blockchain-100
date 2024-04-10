@@ -12,6 +12,7 @@
 
 * [什么是比特币Bitcoin？通过货币发展史看比特币的产生](https://www.youtube.com/watch?v=m3JdQanRZVw)
 * **[什么是区块链？比特币挖矿到底是在计算哪道数学题？](https://www.youtube.com/watch?v=ZAn453E1H2g)**
+* [椭圆曲线加密与哈希函数是什么？非对称加密是什么？比特币中的数学原理](https://www.youtube.com/watch?v=0_XmvNu0J40)
 
 
 ## Youtube
