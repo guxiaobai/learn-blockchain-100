@@ -24,6 +24,14 @@
 * <https://coinmarketcap.com/zh/> 干啥的
 
 
+## 白皮书
+
+> `Google`: `比特币白皮书中文版`
+
+* <https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf>
+* <https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation>
+
+
 ## 密码学
 
 * [(32) 区块链中的密码学 - YouTube](https://www.youtube.com/playlist?list=PLFI1Cd4723_Sq1nl4LEka1SkhNk5ZkAf_)
