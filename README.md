@@ -54,3 +54,4 @@
 ## Ref
 
 * <https://bitcoin.org/en/>
+* <https://bitcointalk.org/>
