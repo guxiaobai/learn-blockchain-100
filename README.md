@@ -35,3 +35,8 @@
 ## 密码学
 
 * [(32) 区块链中的密码学 - YouTube](https://www.youtube.com/playlist?list=PLFI1Cd4723_Sq1nl4LEka1SkhNk5ZkAf_)
+
+
+## Ref
+
+* <https://bitcoin.org/en/>
