@@ -8,6 +8,14 @@
 * [比特币交易如何防伪？私钥公钥地址啥意思？李永乐老师讲比特币(2) - 李永乐老师](https://www.youtube.com/watch?v=pbAVauYsqP0)
 
 
+## Youtube
+
+* [大方BigFang](https://www.youtube.com/@DaFang)
+* **[大懒猫挖矿](https://www.youtube.com/@biglazycat)**
+* [小Lin说](https://www.youtube.com/watch?v=pFRXGxwat_U)
+* [狗狗币大师兄](https://www.youtube.com/watch?v=WgV4cgbaRTo&t=369s)
+
+
 ## 密码学
 
 * [(32) 区块链中的密码学 - YouTube](https://www.youtube.com/playlist?list=PLFI1Cd4723_Sq1nl4LEka1SkhNk5ZkAf_)
