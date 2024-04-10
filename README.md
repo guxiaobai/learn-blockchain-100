@@ -15,6 +15,12 @@
 * **[什么是区块链？比特币挖矿到底是在计算哪道数学题？](https://www.youtube.com/watch?v=ZAn453E1H2g)**
 * [椭圆曲线加密与哈希函数是什么？非对称加密是什么？比特币中的数学原理](https://www.youtube.com/watch?v=0_XmvNu0J40)
 
+## 神奇的零知识证明（Zero-knowledge proof)
+
+* [神奇的零知识证明！既能保守秘密，又让别人信你！- 李永乐老师](https://www.youtube.com/watch?v=FuKEpOhiVPg)
+* [什么是零知识证明？零知识证明在区块链有什么用处？快速理解币圈新技术Zero Knowledge Proof - 大懒猫挖矿](https://www.youtube.com/watch?v=vV-bi_oluOk)
+
+
 
 ## Youtube
 
