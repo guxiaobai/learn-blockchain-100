@@ -15,6 +15,14 @@
 * [小Lin说](https://www.youtube.com/watch?v=pFRXGxwat_U)
 * [狗狗币大师兄](https://www.youtube.com/watch?v=WgV4cgbaRTo&t=369s)
 
+## 交易所
+
+* <https://www.coinbase.com/>
+* <https://www.bitget.com/zh-CN/>
+* <https://www.okx.com/zh-hans>
+* <https://www.binance.com/zh-CN>
+* <https://coinmarketcap.com/zh/> 干啥的
+
 
 ## 密码学
 
